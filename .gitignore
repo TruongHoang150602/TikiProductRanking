@@ -1,0 +1,5 @@
+# Bỏ qua các file .csv
+*.csv
+
+# Bỏ qua các file .json
+*.json
